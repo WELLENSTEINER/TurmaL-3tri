@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(207, 137, 46);
+    background-color:D6CDA4);
 }
-h1 {
-    color: rgb(255, 238, 0);
+#titulo {
+    color: rgb(0, 255, 85);
     font-size: 50px;
     text-align: center;
 }
-p {
+.texto {
     color: black;
     font-size: 30px;
     text-align: justify;
