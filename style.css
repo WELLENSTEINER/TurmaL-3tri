@@ -3,10 +3,10 @@ body{
 }
 header{
     padding: px;
-    color: blue;
+    color: rgb(118, 118, 241);
     font-size: 35px;
     border-bottom: 5px solid ;
-    background: red;
+    background: rgb(142, 106, 106);
 }
 
 #titulo{
