@@ -1,6 +1,13 @@
 body{
     background-color:rgb(239, 215, 215);
 }
+header{
+    padding: px;
+    color: blue;
+    font-size: 35px;
+    border-bottom: 5px solid ;
+    background: red;
+}
 
 #titulo{
     color: rgb(40, 153, 77);
