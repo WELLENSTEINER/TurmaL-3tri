@@ -45,5 +45,6 @@ header{
 .foto{
     border: 5px solid black;
     border-radius: 25px;
-    
+    padding: 20px;
+
 }
