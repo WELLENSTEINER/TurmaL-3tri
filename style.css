@@ -9,6 +9,11 @@ header{
     background: rgb(222, 212, 212);
 }
 
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+
 #titulo{
     color: rgb(40, 153, 77);
     font-size: 50px;
